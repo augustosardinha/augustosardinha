@@ -1,28 +1,21 @@
-# Augusto Sardinha
-Prazer, me chamo Augusto e tenho desenvolvido em: 
-<div style="display: inline_block">
-  <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<div align='center'>
+  <img src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gdj8444psii152r98fj005hqg05xzgjial4sgexx&rid=giphy.gif&ct=g' alt='Developer' />
+  <h1> Olá mundo, meu nome é Augusto! </h1>
+  <h2> Desenvolvedor FullStack </h2>
+ </div>
 
-  Interessado em:
- <div>
-  <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
- <div><br>
-  <a href="https://github.com/augustosardinha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=augustosardinha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustosardinha&layout=compact&langs_count=7&theme=nord"/>
-</div>
-
+<p>
+  Sou uma pessoa bem comunicativa, proativa, disposta a enfrentar novos desafios, trazendo soluções simples e eficazes, sempre disposto a aprender novas ferramentas de     desenvolvimento. Acredito que a tecnologia tende a cada vez trazer mais benefícios e oportunidades para a sociedade.
+</p>
   
-  ##
- 
-<div> 
-  <a href = "mailto:ssardinhaaugusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/augustosardinha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui: [https://github.com/augustosardinha](https://github.com/augustosardinha)
+
+- 📫 Entre em contato: **ssardinhaaugusto@gmail.com**
+  
+<h3> Connect with me: </h3>
+<a href='https://linkedin.com/in/augustosardinha' target='_blank'>
+  <img src='https://skills.thijs.gg/icons?i=linkedin' alt='LinkedIn' />
+</a>
+<h3> Languages and Tools: </h3>
+
+<img src='https://skills.thijs.gg/icons?i=html,css,js,ts,react,styledcomponents,tailwind,nodejs,express,postgres' alt='Languages and Tools' />
