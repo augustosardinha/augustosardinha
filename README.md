@@ -1,6 +1,6 @@
 <div align='center'>
+  <img height='250' src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gdj8444psii152r98fj005hqg05xzgjial4sgexx&rid=giphy.gif&ct=g'               alt='Developer' />
   <h1> Olá mundo, meu nome é Augusto! </h1>
-  <img height='200' src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gdj8444psii152r98fj005hqg05xzgjial4sgexx&rid=giphy.gif&ct=g'               alt='Developer' />
   <h2> Desenvolvedor FullStack </h2>
  </div>
 
