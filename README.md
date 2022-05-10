@@ -18,4 +18,4 @@
 </a>
 <h3> Languages and Tools: </h3>
 
-<img src='https://skills.thijs.gg/icons?i=html,css,js,ts,react,styledcomponents,tailwind,nodejs,express,postgres,mysql' alt='Languages and Tools' />
+<img src='https://skills.thijs.gg/icons?i=html,css,js,ts,react,styledcomponents,tailwind,nodejs,express,postgres,git' alt='Languages and Tools' />
