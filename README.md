@@ -17,5 +17,8 @@
   <img src='https://skills.thijs.gg/icons?i=linkedin' alt='LinkedIn' />
 </a>
 <h3> Languages and Tools: </h3>
+<h4> Front-end </h4>
+<img src='https://skills.thijs.gg/icons?i=html,css,js,ts,react,vue,angular,styledcomponents,tailwind' alt='Front-end' />
 
-<img src='https://skills.thijs.gg/icons?i=html,css,js,ts,react,vue,styledcomponents,tailwind,nodejs,express,postgres,git' alt='Languages and Tools' />
+<h4> Back-end </h4>
+<img src='https://skills.thijs.gg/icons?i=java,spring,js,ts,nodejs,express,laravel,postgres,mysql' alt='Languages and Tools' />
