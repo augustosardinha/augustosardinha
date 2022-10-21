@@ -21,4 +21,4 @@
 <img src='https://skills.thijs.gg/icons?i=html,css,js,ts,php,react,vue,angular,styledcomponents,tailwind' alt='Front-end' />
 
 <h4> Back-end </h4>
-<img src='https://skills.thijs.gg/icons?i=java,spring,js,ts,go,solidity,php,laravel,nodejs,express,postgres,mysql' alt='Languages and Tools' />
+<img src='https://skills.thijs.gg/icons?i=js,ts,go,solidity,php,laravel,nodejs,express,postgres,mysql,mongodb' alt='Languages and Tools' />
