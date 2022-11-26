@@ -21,4 +21,8 @@
 <img src='https://skills.thijs.gg/icons?i=html,css,js,ts,react,vue,nuxt,styledcomponents,tailwind,vite,webpack' alt='Front-end' />
 
 <h4> Back-end </h4>
-<img src='https://skills.thijs.gg/icons?i=js,ts,go,solidity,nodejs,laravel,express,postgres,mysql,mongodb,docker' alt='Languages and Tools' />
+<img src='https://skills.thijs.gg/icons?i=js,ts,go,nodejs,laravel,express,postgres,mysql,mongodb,docker' alt='Languages and Tools' />
+
+<h5> Studying </h5>
+
+<img src='https://skills.thijs.gg/icons?i=svelte,solidity' alt='Languages and Tools' />
