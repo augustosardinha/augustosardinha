@@ -5,7 +5,7 @@
  </div>
 
 <p>
-  I am a very communicative, proactive person, willing to face new challenges, bring simple and effective solutions, and always ready to learn new development tools. I believe that technology tends to get more and more benefits and opportunities to society.
+  I am a very communicative, proactive, willing to face new challenges, bring simple and effective solutions, and always ready to learn new development tools. I believe that technology tends to get more and more benefits and opportunities to society.
 </p>
   
 - 👨‍💻 All my projects are available here: [https://github.com/augustosardinha](https://github.com/augustosardinha)
