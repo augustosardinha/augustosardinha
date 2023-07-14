@@ -18,7 +18,7 @@
 </a>
 <h3> Languages and Tools: </h3>
 <h4> Front-end </h4>
-<img src='https://skills.thijs.gg/icons?i=html,css,js,ts,svelte,react,vue,nuxt,styledcomponents,tailwind,vite,webpack' alt='Front-end' />
+<img src='https://skills.thijs.gg/icons?i=html,css,js,ts,svelte,react,vue,nuxt,astro,styledcomponents,tailwind,vite,webpack' alt='Front-end' />
 
 <h4> Back-end </h4>
 <img src='https://skills.thijs.gg/icons?i=js,ts,go,nodejs,express,postgres,mysql,sqlite,mongodb,docker' alt='Languages and Tools' />
